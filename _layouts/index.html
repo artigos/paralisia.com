@@ -1,0 +1,19 @@
+{% include top.html %}
+
+<body>
+  {% include facebook.html %}
+  <div class="wrapper">
+    {% include header.html %}
+
+    <section>
+      {{ content }}
+      <hr/>
+      {% include addthis.html %}
+    </section>
+
+    {% include footer.html %}
+  </div>
+  {% include analytics.html %}
+
+</body>
+</html>
