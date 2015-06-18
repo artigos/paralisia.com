@@ -1,4 +1,6 @@
-paralisia.com
+Paralisia
 =============
 
-Blog sobre a paralisia.
+Artigos sobre paralisia
+
+[paralisia.com](http://paralisia.com)
