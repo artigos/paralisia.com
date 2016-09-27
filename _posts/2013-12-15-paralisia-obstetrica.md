@@ -4,9 +4,9 @@ title: Paralisia Obstétrica
 permalink: /paralisia-obstetrica/paralisia-obstetrica.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##É o resultado de um parto laborioso onde houve lesão neuronal por tração ou avulsão das fibras do plexo braquial durante as manobras obstétricas quando do desprendimento do ombro do recém nascido.
+## É o resultado de um parto laborioso onde houve lesão neuronal por tração ou avulsão das fibras do plexo braquial durante as manobras obstétricas quando do desprendimento do ombro do recém nascido.
 
 ![Paralisia Obstétrica](../assets/paralisia-obstetrica.gif)
 
@@ -18,7 +18,7 @@ Esse tipo de trauma fechado também pode ser observado no parto em apresentaçã
 
 Outros fatores também pertinentes são: macrossomia fetal ( principalmente se acima de 4 kg ) , diabete materno , distocia de ombro e mãe de idade avançada.
 
-##Diagnóstico
+## Diagnóstico
 
 A identificação da PO é em sua essência clínica possível já no berçário com uma avaliação neurológica sumária do RN somada à história obstétrica e do parto. Com frequência, é a mãe que indaga ao médico a fraqueza ou hipotonia em um braço da criança que não está sendo usado espontaneamente e que , as vezes, leva ao choro quando manipulado. Entretanto alguns estudiosos sugerem uma avaliação clínica mais precisa após 3 semanas do nascimento quando o quadro se torna melhor definido.
 

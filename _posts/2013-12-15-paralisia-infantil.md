@@ -4,9 +4,9 @@ title: Paralisia Infantil
 permalink: /paralisia-infantil/paralisia-infantil.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##É mais comum em crianças, daí o nome "paralisia infantil", contudo também ocorre em adultos.
+## É mais comum em crianças, daí o nome "paralisia infantil", contudo também ocorre em adultos.
 
 ![Paralisia Infantil](../assets/paralisia-infantil.gif)
 
@@ -22,19 +22,19 @@ A infecção é oral e há invasão e multiplicação do tecido linfático da fa
 
 As manifestações clínicas da infecção são variadas e podem ser descritas em quatro grupos:
 
-##Doença assimptomática
+## Doença assimptomática
 
 Mais de 90% dos casos são assimptomáticos, com limitação efectiva pelo sistema imunitário da infecção à faringe e intestino. Não há sintomas e a resolução é rápida sem quaisquer complicações.
 
-##Poliomielite abortiva ou Doença menor
+## Poliomielite abortiva ou Doença menor
 
 Ocorre em 5% dos casos, com febre, dores de cabeça, dores de garganta, mal estar e vómitos, mas sem complicações sérias.
 
-##Poliomielite não-paralítica com meningite asséptica
+## Poliomielite não-paralítica com meningite asséptica
 
 Ocorre em 1 ou 2% dos casos. além dos sintomas iniciais da doença menor, ocorre inflamação das meninges do cérebro com dores de cabela fortes e espasmos musculares mas sem danos significativos neuronais.
 
-##Poliomielite paralítica ou doença maior
+## Poliomielite paralítica ou doença maior
 
 De 0,1 a 2% dos casos. Após os três ou quatro dias depois dos sintomas iniciais da doença menor desaparecerem (ou cerca de 10 dias depois de se iniciarem), surge a paralisia devido a danos nos neurónios da medula espinal e córtex motor do cérebro. A paralisia flácida (porque os membros afectados são maléaveis ao contrário da rigidez que ocorre noutras doenças) afecta um ou mais membros, e músculos faciais. O número de músculos afectados varia de doente para doente e tanto pode afectar apenas um grupo discreto como produzir paralisia de todos os músculos do corpo. Se afectar os músculos associados ao sistema respiratório ou o centro neuronal medular que controla a respiração subconsciente directamente, a morte é provável por asfixia. A paralisia respiratória é devida à poliomielite bulbar, que afecta esses nervos: ataxa de mortalidade da variedade bulbar é 75%. As regiões corporais paralisadas conservam a sensibilidade. Se o doente sobreviver alguns poderão recuperar alguma mobilidade nos músculos afectados, mas frequentemente a paralisia é irreversivel. A mortalidade total de vítimas da poliomielite paralítica é de 15 a 30% para os adultos e 2 a 5% para crianças.
 

@@ -4,9 +4,9 @@ title: Paralisia Facial Central
 permalink: /paralisia-facial-central/paralisia-facial-central.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##São causadas por lesões supranucleares (trato córtico-nuclear), onde nesta paralisia a motricidade da metade superior é geralmente preservada.
+## São causadas por lesões supranucleares (trato córtico-nuclear), onde nesta paralisia a motricidade da metade superior é geralmente preservada.
 
 ![Paralisia Facial Central](../assets/paralisia-facial-central.gif)
 

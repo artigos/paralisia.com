@@ -4,10 +4,10 @@ title: Paralisia do Sono
 permalink: /paralisia-do-sono/paralisia-do-sono.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 
-##Algumas pessoas relatam que, às vezes, sofrem uma paralisia corporal ao se deitarem para dormir.
+## Algumas pessoas relatam que, às vezes, sofrem uma paralisia corporal ao se deitarem para dormir.
 
 ![Paralisia do Sono](../assets/paralisia-do-sono.gif)
 

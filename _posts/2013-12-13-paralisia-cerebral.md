@@ -4,9 +4,9 @@ title: Paralisia Cerebral
 permalink: /paralisia-cerebral/paralisia-cerebral.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A paralisia cerebral é uma lesão de uma ou mais partes do cérebro, provocada muitas vezes pela falta de oxigenação das células cerebrais.
+## A paralisia cerebral é uma lesão de uma ou mais partes do cérebro, provocada muitas vezes pela falta de oxigenação das células cerebrais.
 
 ![Paralisia Cerebral](../assets/paralisia-cerebral.gif)
 

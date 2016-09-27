@@ -4,9 +4,9 @@ title: Paralisia Facial
 permalink: /paralisia-obstetrica/paralisia-obstetrica.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Uma das doenças otorrinolaringológicas de maior impacto na população é, sem dúvida, a paralisia facial periférica.
+## Uma das doenças otorrinolaringológicas de maior impacto na população é, sem dúvida, a paralisia facial periférica.
 
 ![Paralisia Facial](../assets/paralisia-facial.gif)
 
@@ -18,11 +18,11 @@ Já a paralisia facial periférica é uma doença do nervo responsável pela ine
 
 Outros sinais e sintomas podem acompanhar o quadro como: alteração do paladar; diminuição ou aumento das lágrimas no olho que não fecha; formigamento e dor na hemiface acometida.
 
-##Qual a maior preocupação do médico após instalada a paralisia facial periférica?
+## Qual a maior preocupação do médico após instalada a paralisia facial periférica?
 
 Como o olho do paciente não se fecha por completo, ocorrerá um ressecamento da conjuntiva do olho afetado, com risco de lesão da córnea, havendo a necessidade, já na primeira consulta, de o paciente passar a fazer uso de colírio (um tipo de lágrima artificial) e uma pomada, como proteção ocular.
 
-##Como é a evolução da paralisia facial periférica?
+## Como é a evolução da paralisia facial periférica?
 
 A instalação da paralisia normalmente é súbita, mas a melhora se dá de maneira demorada, podendo levar alguns meses, devendo o doente deve ser colaborativo com a terapêutica e, como o próprio termo o designa, paciente.
 
