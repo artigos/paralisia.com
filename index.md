@@ -4,7 +4,7 @@ title: Paralisia
 overview: true
 ---
 
-##Esperamos que este blog sirva para lhe esclarecer algumas dúvidas que possa ter sobre os diversos tipos de paralisias.
+## Esperamos que este blog sirva para lhe esclarecer algumas dúvidas que possa ter sobre os diversos tipos de paralisias.
 
 A paralisia é a abolição completa, no que respeita à mobilidade voluntária, da capacidade de efectuar um movimento em certo território do corpo; parálise; entorpecimento; tolhimento; marasmo; impossibilidade de operar;
 
