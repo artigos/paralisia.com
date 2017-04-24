@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tetraplegia vs. Quadriplegia vs. Paraplegia: Qual é a diferença?
+title: Tetraplegia vs. Quadriplegia vs. Paraplegia - Qual é a diferença?
 ---
 
 # {{ page.title }}
