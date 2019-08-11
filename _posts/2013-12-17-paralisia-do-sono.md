@@ -85,6 +85,6 @@ Além do mundo usual da vigília há um outro mundo: o dos sonhos.É um mundo qu
 
 O mundo dos sonhos é real à sua própria maneira, infelizmente, nós, ocidentais modernos, somos ainda muito atrasados nesse campo. Preferimos evitar a espinhosa questão relacionada com a concretude da psique a encarar a crua realidade do mundo onírico.
 
-Originalmente escrito em [http://www.jornalinfinito.com.br/series.asp?cod=21](http://www.jornalinfinito.com.br/series.asp?cod=21), colocado com permissão do autor.
+Originalmente escrito em [//www.jornalinfinito.com.br/series.asp?cod=21](//www.jornalinfinito.com.br/series.asp?cod=21), colocado com permissão do autor.
 
 Qualquer dúvida que tenha, deixe um comentário.
